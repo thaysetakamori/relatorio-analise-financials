@@ -1,4 +1,4 @@
-# Relatório Analise Power BI
+# Relatório Análise Power BI
 
 Projeto desenvolvido no bootcamp da NTT DATA - Engenharia de Dados com Python pela [Digital Innovation One](https://www.dio.me/).
 
